@@ -299,13 +299,6 @@ The full equations, objective, design choices, and explicit departures from unsp
 6. **Baseline methods are not shipped.** The paper references FactCC, QAGS, SummaC and DeBERTa-NLI; their reported scores are not re-created here.
 7. **Manuscript hyperparameters are incomplete.** Encoder name, graph affinity parameterization, optimizer details and exact annotations are engineering choices, documented separately.
 
-## Reference
-
-Based on the user-provided manuscript:
-
-*CLAUSEFACT: Clause-Level Evidence Graphs for Faithfulness Verification in Abstractive Summarization* (six-page manuscript). Its provided PDF contains placeholder author metadata; do not invent an author list or publication venue when citing it.
-
-Related verification systems discussed in the manuscript include FactCC, QAGS, SummaC and DeBERTa-NLI. Their original implementations are not bundled in this repository.
 
 ## License
 
