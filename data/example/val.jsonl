@@ -1,0 +1,6 @@
+{"id": "val-000", "source": "Lena purchased two books. She visited the library later.", "summary": "Lena purchased two books.", "label": 1, "clause_labels": [1], "contradiction_labels": [0]}
+{"id": "val-001", "source": "Lena purchased two books. She visited the library later.", "summary": "Lena purchased seven books.", "label": 0, "clause_labels": [0], "contradiction_labels": [1]}
+{"id": "val-002", "source": "Ahmed opened a research center in Cairo. The opening happened in June.", "summary": "Ahmed opened a research center in Cairo.", "label": 1, "clause_labels": [1], "contradiction_labels": [0]}
+{"id": "val-003", "source": "Ahmed opened a research center in Cairo. The opening happened in June.", "summary": "Ahmed opened a research center in Paris.", "label": 0, "clause_labels": [0], "contradiction_labels": [1]}
+{"id": "val-004", "source": "The council approved a 4 percent tax cut. The decision passed unanimously.", "summary": "The council approved a 4 percent tax cut.", "label": 1, "clause_labels": [1], "contradiction_labels": [0]}
+{"id": "val-005", "source": "The council approved a 4 percent tax cut. The decision passed unanimously.", "summary": "The council approved a 14 percent tax cut.", "label": 0, "clause_labels": [0], "contradiction_labels": [1]}

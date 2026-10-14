@@ -1,0 +1,6 @@
+{"id": "test-000", "source": "Isha visited Kyoto in April. She later returned to Tokyo.", "summary": "Isha visited Kyoto in April.", "label": 1, "clause_labels": [1], "contradiction_labels": [0]}
+{"id": "test-001", "source": "Isha visited Kyoto in April. She later returned to Tokyo.", "summary": "Isha visited Kyoto in April. She met the president.", "label": 0, "clause_labels": [1, 0], "contradiction_labels": [0, 0]}
+{"id": "test-002", "source": "Nova launched one satellite in 2024. The rocket lifted off from Florida.", "summary": "Nova launched one satellite in 2024.", "label": 1, "clause_labels": [1], "contradiction_labels": [0]}
+{"id": "test-003", "source": "Nova launched one satellite in 2024. The rocket lifted off from Florida.", "summary": "Nova launched four satellites in 2024.", "label": 0, "clause_labels": [0], "contradiction_labels": [1]}
+{"id": "test-004", "source": "Grace received the award in London. The ceremony was held indoors.", "summary": "Grace received the award in London.", "label": 1, "clause_labels": [1], "contradiction_labels": [0]}
+{"id": "test-005", "source": "Grace received the award in London. The ceremony was held indoors.", "summary": "Grace received the award in Madrid.", "label": 0, "clause_labels": [0], "contradiction_labels": [1]}

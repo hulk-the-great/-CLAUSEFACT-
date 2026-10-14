@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+.venv/
+venv/
+# Secrets and local settings
+.env
+.env.*
+!.env.example
+# Outputs and model weights
+outputs/
+checkpoints/
+*.pt
+*.pth
+*.safetensors
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Large data are downloaded/prepared independently; only examples are tracked.
+data/raw/
+data/processed/
